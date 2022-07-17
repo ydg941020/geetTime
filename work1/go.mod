@@ -1,4 +1,4 @@
-module github.com/ydg941020/geetTime
+module github.com/ydg941020/geetTime/work1
 
 go 1.18
 

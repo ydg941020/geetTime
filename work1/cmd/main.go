@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/ydg941020/geetTime/dao"
+	"github.com/ydg941020/geetTime/work1/dao"
 )
 
 var db = &sql.DB{}
